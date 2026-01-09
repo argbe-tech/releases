@@ -1,0 +1,24 @@
+{
+	"version": "0.48.0",
+	"as_of": "2026-01-09T05:15:41.927Z",
+	"events": [
+		{
+			"id": "update-2026-01-09-001",
+			"observed_at": "2026-01-09T05:15:41.927Z",
+			"material": true,
+			"changed_paths": [
+				"version",
+				"last_updated"
+			],
+			"affected_urls": [
+				"https://argbe.tech/entity.json",
+				"https://argbe.tech/changes.json",
+				"https://argbe.tech/llms.txt",
+				"https://argbe.tech/sitemap.xml"
+			],
+			"evidence": [
+				"https://github.com/argbe-tech/releases/releases/tag/v0.48.0"
+			]
+		}
+	]
+}

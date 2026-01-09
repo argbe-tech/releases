@@ -1,0 +1,35 @@
+{
+  "schema_version": "argbe.audit_packet.v1",
+  "generated_at": "2026-01-09T05:16:05.498Z",
+  "generator": {
+    "script": "scripts/generate-audit-package.ts",
+    "commit_sha": "2dd16123ba0a25ac30e1417b5451de0a2c56118d"
+  },
+  "target": {
+    "project_id": "project.argbe_tech_website",
+    "org": "Argbe.tech",
+    "canonical_domain": "https://argbe.tech",
+    "version": "0.48.0",
+    "release_tag": "v0.48.0"
+  },
+  "evidence": [
+    {
+      "type": "github_release",
+      "url": "https://github.com/argbe-tech/releases/releases/tag/v0.48.0",
+      "relationship": "release_archive"
+    },
+    {
+      "type": "deployed_site",
+      "url": "https://argbe.tech",
+      "relationship": "production_deployment"
+    },
+    {
+      "type": "golden_record",
+      "url": "https://argbe.tech/entity.json",
+      "relationship": "canonical_truth"
+    }
+  ],
+  "provenance": {
+    "golden_record_url": "https://argbe.tech/entity.json"
+  }
+}
