@@ -12,14 +12,15 @@ This repository provides **verifiable evidence** for the argbe.tech website proj
 
 ## Latest Release
 
-**v0.127.3**
+**v0.128.0**
 
 - [Audit Package](./audit-packages/argbe_tech.json)
-- [Release Artifact](./argbe-tech-website/v0.127.3.json)
-- [Change Feed](./change-feeds/v0.127.3.json)
+- [Release Artifact](./argbe-tech-website/v0.128.0.json)
+- [Change Feed](./change-feeds/v0.128.0.json)
 
 ## All Releases
 
+- [v0.128.0](./argbe-tech-website/v0.128.0.json)
 - [v0.127.3](./argbe-tech-website/v0.127.3.json)
 - [v0.127.2](./argbe-tech-website/v0.127.2.json)
 - [v0.127.1](./argbe-tech-website/v0.127.1.json)
@@ -29,7 +30,6 @@ This repository provides **verifiable evidence** for the argbe.tech website proj
 - [v0.124.1](./argbe-tech-website/v0.124.1.json)
 - [v0.124.0](./argbe-tech-website/v0.124.0.json)
 - [v0.123.0](./argbe-tech-website/v0.123.0.json)
-- [v0.122.0](./argbe-tech-website/v0.122.0.json)
 
 ## Evidence API
 
